@@ -71,8 +71,8 @@ body {
   height: 40px;
   font-size: 16px;
   font-weight: 700;
-  border: 1px solid var(--red);
-  background-color: var(--red);
+  border: 1px solid var(--blue);
+  background-color: var(--blue);
   color: white;
   box-shadow: 0 1px 1px rgba(0,0,0,.04);
   border-radius: 5px;
