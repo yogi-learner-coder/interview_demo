@@ -1,0 +1,33 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "URL Shortener Demo",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "npx nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogi-learner-coder/interview_demo.git"
+  },
+  "keywords": [
+    "url shortener",
+    "mongodb",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.8",
+    "nanoid": "^3.1.9"
+  },
+  "engines": {
+    "node": "11.2.0"
+  }
+}
